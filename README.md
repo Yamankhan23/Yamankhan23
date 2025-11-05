@@ -2,10 +2,10 @@
 
 💻 **Full Stack Developer** | ⚙️ **Backend-Focused** | 🌱 **Always Building & Learning**
 
-I’m a Computer Engineering student who enjoys turning ideas into working, scalable web apps.  
+I’m a Computer Engineering graduate passionate about turning ideas into working, scalable web apps.  
 My focus is on clean architecture, efficient data flow, and delivering polished user experiences.  
 
-Currently, I’m exploring how system design, API performance, and cloud deployments come together to shape real-world software.
+I enjoy working across the stack — from crafting APIs and managing databases to building responsive frontends.
 
 ---
 
@@ -25,27 +25,26 @@ Render · Netlify · Vercel · Git · GitHub
 
 ---
 
-### 🚀 What I’ve Been Building
-I’ve recently worked on:
-- **A Fullstack Referral & Rewards System** (Next.js + Express + MongoDB)  
-  → Built end-to-end authentication, referral logic, and a small integrated store.  
+### 🚀 Recent Projects
+- **Fullstack Referral & Rewards System** (Next.js + Express + MongoDB)  
+  → Built authentication, referral credit logic, and an integrated store with purchase simulation.  
 - **BookIt Travel Platform** (React + Node + Prisma + PostgreSQL)  
-  → A curated experience booking app with dynamic API integration and pixel-perfect UI.  
+  → A curated travel booking app with clean UI, dynamic data flow, and real-time validation.  
 - **Data Visualization Dashboard** (FastAPI + React + PostgreSQL)  
-  → Upload, analyze, and visualize data in real-time using JWT-secured APIs.  
+  → JWT-secured analytics dashboard for data upload and visualization using Chart.js.  
 
-Each project taught me something new — from async data handling to structuring scalable full-stack systems.
+These projects reflect my focus on building end-to-end systems and learning through hands-on implementation.
 
 ---
 
-### 📈 What I’m Learning Next
+### 📈 Currently Exploring
 - Redis for caching and session management  
-- Docker for containerization  
-- API documentation with Swagger  
+- Docker for deployment & containerization  
+- Swagger for API documentation  
 
 ---
 
-### 🤝 Let’s Connect  
+### 🤝 Connect With Me  
 📫 **Email:** [khanyaman2000@gmail.com](mailto:khanyaman2000@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/yamankhan29](https://www.linkedin.com/in/yamankhan29/)  
 💡 **GitHub:** [github.com/Yamankhan23](https://github.com/Yamankhan23)
